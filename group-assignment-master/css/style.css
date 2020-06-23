@@ -1,0 +1,124 @@
+@charset "UTF-8"; 
+
+.pIndex{
+	color:black;
+    text-align: center;
+	font-size: 18px;
+}
+
+h1{
+	text-align: center;
+	color:white;
+}
+
+#h1About{
+	color: red;
+	font-size:50px;
+}
+h2{
+    color: white;
+    text-align: center;
+    font-size: 60px;
+    border: thick solid red;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+}
+p{
+	color:white;
+	font-size:16px;
+}
+p2{
+	color:dimgray;
+}
+
+h3{
+	text-align: center;
+	background-color: aquamarine;
+	color:white;
+	font-size:16px;
+}
+
+h4 {
+	text-align: left;
+	font-family: 'Gill Sans', 'Gill Sans MT', 'Myriad Pro', 'DejaVu Sans Condensed', Helvetica, Arial, 'sans-serif';
+	color: azure;
+	font-size: 35px	
+}
+
+.banners2{
+    background-color: #FF0000;
+}
+
+.titlesjust{
+	margin-top: 20px;
+	font-size: 25px;
+}
+
+h6{
+	text-align: center;
+	color: yellow;
+	font-size: 45px;
+}
+	
+h7{
+	color:black;
+}
+
+
+.stressreliever{ 
+	text-color: white;
+        text-align: left;
+	}
+
+
+h5{
+	text-align: center;
+	font-size: 20px;
+	color: white;
+}
+
+h8{
+	color: black;
+}
+
+main .row {
+		width: 70%;
+		background-color: #282828;
+		margin: 0 auto;
+}
+
+main .row .col section h4 {
+    color: white;
+    font-size: 20px;
+}
+ 
+.titlesjust{
+	margin-top: 20px;
+	font-size: 25px;
+	text-align: center;
+}
+.textjust{
+	text-align: center;
+	font-size: 14px;
+}
+
+
+h9{
+	color:black;
+}
+
+.banners{
+    background-color: yellow;
+}
+
+h10{
+	color: white;
+}
+
+h11{
+	color:black;
+}
+
+#pBody{
+	color: black;
+	font-size: 13px;
+}
